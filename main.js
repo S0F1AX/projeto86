@@ -16,6 +16,6 @@ function newImage()
     }
     )}
 
-function playSound(){
+function playsound(){
 	x.play();
 }
